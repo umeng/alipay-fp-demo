@@ -1,0 +1,4 @@
+
+<view>
+  <button type="default" onTap="getTk">点击获取token</button>
+</view>
